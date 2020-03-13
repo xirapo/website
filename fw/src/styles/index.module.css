@@ -1,0 +1,89 @@
+.profile_picture{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+.wrapper{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 70px 40px 0px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 10px 20px 40px;
+
+}
+
+.header{
+    text-align: center;
+    position: relative;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #eeeeee;
+}
+
+.name{
+    margin: 0;
+    font-family: 'Heebo', sans-serif;
+    font-weight: bold;
+    color: #2a2a2a;
+    font-size: 2.7em;
+}
+
+.subtitle{
+    font-family: 'Heebo', sans-serif;
+    color: #aaaa;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 300;
+    margin-top: -10px;
+}
+
+.nav > a{
+    padding: 8px 12px;
+    text-decoration: none;
+    font-family: 'Heebo', sans-serif;
+    color: #0984e3;
+    font-size: 1em;
+
+}
+
+.footer {
+    text-align: center;
+    padding: 40px 40px 0px;
+    border-top: 1px solid #eeee;
+    max-width: 525px;
+    margin: 0 auto;
+    font-family: 'Heebo';
+    font-weight: 100;
+    color: #aaa;
+    font-size: 12px;
+}
+
+.ra_title{
+    font-family: 'Heebo', sans-serif;
+    text-decoration: none;
+    font-weight: 600;
+    color: #303952;
+    font-size: 1.3em;
+}
+.ra_date{
+    float: right;
+    position: relative;
+    top: 0px;
+    font-family: 'Heebo', sans-serif;
+    color: #aaa;
+    font-weight: lighter;
+    font-size: 1em;
+    top:2px;
+}
+
+.ra_separator{
+    padding-bottom: 40px;
+    border-bottom: 1px solid #eee;
+    margin-top: 30px;
+}
