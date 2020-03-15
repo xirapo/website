@@ -1,5 +1,5 @@
 //libs
-import React, { Children } from "react"
+import React from "react"
 
 //styles
 //import css from "../styles/index.module.css"

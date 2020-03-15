@@ -6,7 +6,7 @@ import { Link } from "gatsby"
 import css from "../styles/index.module.css"
 
 export default props => (
-    <Link to="#" className={css.ra_title}>
+    <Link to="/blog_post" className={css.ra_title}>
         {props.title}
     </Link>
 )
