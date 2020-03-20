@@ -6,7 +6,7 @@ body{
 .header{
     margin: 0px 10vw;
     padding-top:calc(3rem + 4vh);
-    max-width: 40rem;
+    max-width: 40git rem;
     z-index: 999;
     position: absolute;
    
